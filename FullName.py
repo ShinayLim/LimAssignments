@@ -1,1 +1,0 @@
-print("Shin Itong Lim")
